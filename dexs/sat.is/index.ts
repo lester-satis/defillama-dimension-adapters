@@ -48,7 +48,7 @@ const adapter: SimpleAdapter = {
     adapter: {
         [CHAIN.ZKSYNC]: {
             fetch: fetch(),
-            start: async () => 1689552000
+            start: async () => 1693411200
         }
     }
 }
